@@ -29,7 +29,7 @@ Segala puji bagi Allah SWT yang telah memberikan kami kemudahan sehingga kami da
  Oleh karna itu, diperlukan sebuah krangka kerja etika yang konsisten dan terintegrasi untuk memandu para profesional informasi. memahami bahwa keamanan bukan sekedar tentang membangun benteng digital tetapi tentang mengelola risiko dan menjaga keseimbangan nilai nilai moral adalah krusial. Makalah ini disusun untuk mengeksplor bagaimana prinsip prinsip etika keamanan siber dapat diimplementasikan dalam konteks perpustakaan dan lembaga arsip digital untuk menciptakan ekosistem informasi yang aman, adil, dan terpercaya.
  
 
-# Tujuan
+## 1.3 Tujuan
 1. Untuk mengetahui dan menjelaskan 5 hukum perpustakaan.
 2. Untuk menelaah serta menjelaskan konsep cyberethic dan hubunganya dengan perpustakaan digital.
 3. Untuk menjelaskan prinsip dasar keamanan cyber bagi perpustakaan digital dan lembaga arsip digital
